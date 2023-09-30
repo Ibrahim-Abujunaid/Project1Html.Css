@@ -183,9 +183,11 @@ hr{
     grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 .profiles{
-    
       flex-direction: column;
     align-items: center;
+ }
+ .customer{
+    width: 350px;
  }
 }
 
